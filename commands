@@ -1,0 +1,5 @@
+npm init
+npm i nodemon // to automatically start the project
+npm i koa
+npm i koa-static
+npm i koa-router
